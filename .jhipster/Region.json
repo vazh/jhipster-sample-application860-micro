@@ -1,0 +1,22 @@
+{
+  "annotations": {
+    "changelogDate": "20240626171353"
+  },
+  "applications": "*",
+  "clientRootFolder": "jhipsterSampleApplication860",
+  "databaseType": "sql",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "regionName",
+      "fieldType": "String"
+    }
+  ],
+  "jpaMetamodelFiltering": true,
+  "microserviceName": "jhipsterSampleApplication860",
+  "name": "Region",
+  "pagination": "pagination",
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}
